@@ -1,0 +1,12 @@
+section {
+    padding-top: 100px;
+}
+
+.form-section {
+    padding-left: 15px;
+    display: none;
+}
+
+.form-section.current {
+    display: inherit;
+}
